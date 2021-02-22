@@ -1,0 +1,25 @@
+{
+    "id": "211EC6B0",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1613953037045.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "397f93cb7ef64111a7c3464d6d5e85f3",
+        "name": "valInput",
+        "title": "valInput"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8389765627402788896,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613953037045,
+    "read_only": false,
+    "read_only_alternatives": []
+}
